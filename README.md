@@ -1,5 +1,5 @@
 # velocidrone-footswitch
-low action low latency foot switch for velocidrone combat
+Low action, low latency foot switch for velocidrone combat
 
 For this project you will need an Arduino Itsybitsy M0, a decent quality microswitch, some prototyping board and two short bits of wire. Here are links to where I got mine:
 
