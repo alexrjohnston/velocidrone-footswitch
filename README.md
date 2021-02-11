@@ -19,4 +19,4 @@ Wire the switch to the arduino as shown below: (one side of the switch goes to p
 
 If you are fimilar with the Arduino IDE you can download the ino file from my github here: https://github.com/alexrjohnston/velocidrone-footswitch/blob/main/vd_switch.ino
 
-Or if you would like to use the drag and drop method to flash the firmware (much easier if your not fimilar with Arduino) then watch this video for how to: https://www.youtube.com/watch?v=PbkST6SCPX8
+Or if you would like to use the drag and drop method to flash the firmware (much easier if your not fimilar with Arduino) then watch this video for how to: https://www.youtube.com/watch?v=yhj6UJ2CV3E
