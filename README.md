@@ -15,6 +15,4 @@ The protoboard is also optional although if you are stomping on this thing a fai
 
 Wire the switch to the arduino as shown below:
 
-![wire1](https://github.com/alexrjohnston/velocidrone-footswitch/blob/main/Images/002_unpressed.jpg)
-
-![wire2](https://github.com/alexrjohnston/velocidrone-footswitch/blob/main/Images/003_pressed.jpg)
+![wire1](https://github.com/alexrjohnston/velocidrone-footswitch/blob/main/Images/002_unpressed.jpg) ![wire2](https://github.com/alexrjohnston/velocidrone-footswitch/blob/main/Images/003_pressed.jpg)
