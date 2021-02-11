@@ -13,3 +13,8 @@ You could use a cheaper Arduino such as a nano but then you would have to compil
 
 The protoboard is also optional although if you are stomping on this thing a fair bit there needs to be something robust holing the switch and the Arduino together.
 
+Wire the switch to the arduino as shown below:
+
+![wire1](https://github.com/alexrjohnston/velocidrone-footswitch/blob/main/Images/002_unpressed.jpg)
+
+![wire2](https://github.com/alexrjohnston/velocidrone-footswitch/blob/main/Images/003_pressed.jpg)
